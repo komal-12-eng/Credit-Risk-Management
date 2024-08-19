@@ -1,3 +1,5 @@
+# **Credit Risk Prediction Model for Loan Eligibility Assessment**
+
 # **Project Overview**
 This project aims to develop a robust model for predicting loan approval categories (P1-P4) based on customer data. The model will assist financial institutions in making informed decisions regarding loan approvals by assessing the credit risk associated with new customers.
 
